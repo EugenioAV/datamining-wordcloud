@@ -1,0 +1,500 @@
+Complex network; important node; influential spreader; propagation capability; SpectralRank (SR)
+Concrete dam; safety monitoring;  uplift pressure; variable coefficient model
+Automatic train operation (ATO); high-speed train; intelligent train control; machine learning algorithm; sparse algorithm; system safety
+Thermodynamic mechanism;  normal distribution; characteristic parameter; fault early warning
+clustering of a graph; subgraph counting; subgraph isomorphism; graph color coding; transistor level CMOS circuits
+Micro-robot; MEMS; MHD; PIV;  filtering; measurements; machine vision
+Civil infrastructure; Cyber-physical system; Intelligent detection robot; Structural health monitoring; Sensing; 
+ANN;  energy management; fuzzy logic; genetic algorithm; ontology; optimal control; semantic Web; WebGL
+Decision-making; formal methods; human-robot interaction; 
+Cement industry; Soft sensing; Process monitoring; Process control; Finite principle modeling
+Bioinformatics; frequent patterns; biological sequence; pattern prefix-tree; 
+Fault detection and diagnosis; neural networks;  learning algorithm; regression
+ feature learning; time series
+Urban rail transit system;  travel time influenced factors; distribution of travel time; route choice model
+Classification of infant fMRI; deep neuro-cognitive co-evolution; fuzzy attribute reduction; minimize interdependent variables; quantum leaping particle swarm optimization (PSO) with nearest-neighbor memeplexes
+Virtual power plant; renewables; power scheduling;  optimization
+Clustering; Swarm intelligence; Encoding schemes; Fitness function; Validation index
+Consortium blockchain; differential privacy; neighboring energy trading; privacy-preserving; smart grid
+Data envelopment analysis;  Decision-making support; Robustness evaluation
+Unreliable page; Reliable pages; Facebook page; Feature selection; 
+Ensemble learning; feature selection; multiobjective optimization; semisupervised learning
+Convolutional neural networks (CNN); prognostics and health management (PHM); time series classification
+ traffic operation; Hadoop; information processing; fuzzy c-means algorithm; random forest algorithm
+Privacy preserving; High-utility itemset mining; Constraint satisfaction problem; Integer linear programming; Minimum side effects
+Sequentially truncated higher order singular value decomposition (ST-HOSVD); tensor completion; tensor factorization
+distributed system; all-to-all comparison; mix integer linear programming (MILP); file allocation; load balancing
+ Industrial systems; Predictive maintenance; Cold forging machines; Failure estimation
+ subspace clustering; multi-core; many-core; GPU computing
+Cyber security;  electricity theft detection; energy internet; nontechnical loss (NTL); smart meter
+Time series; Classification; k-Nearest Neighbors; Non-parametric method
+Classification; ensemble learning; feature selection; high dimensional data; optimization; semi-supervised learning
+Data science; Feature selection; Metrology prediction; Yield improvement; TFT-LCD manufacturing
+opinion mining; social media messages; sentiment analysis; collective intelligence; deep learning; crowdsourcing
+Machine learning; Gene analysis; Cancer classification; Graph analysis
+Weather forecast; Severe storm; Convective precipitation; Algorithm; Data conversion;  Aggregation method
+Big Data; Information Governance; Dark Data Management
+Sentiment Analysis; Opinion Mining; Social Media; Natural Language Processing; Text Mining
+transformer failure prediction;  systematic literature review;  algorithms; classification
+Text classification; text mining; feature selection; term selection
+information island; Creep test; remote monitoring; data-mining
+Laser welding; Real time monitoring; Sensor; Machine learning algorithms
+anomaly detection; outlier detection; outlier ensembles; neural networks; machine learning;  Python
+8T SRAM cell; multimedia applications; approximate computing; bit-truncation; PSNR; BER; SSIM; memory
+Speaker recognition; text-independent; support vector machine; k-nearest neighbors; multilayer-perceptron; auto-weka; random forest
+ bioinformatics; preprocessing
+Smart City; smart bike; mobility; bike-sharing
+ semantic  ontologies; subgroup discovery; network analysis
+Face Recognition; Matrix factorization; NMF; constrained optimization; convex hull; simplicial cone
+mail-filtering; attribute information; text mining; co-occurrence network
+ Classification; Grey wolf optimization algorithm; Learning style
+Attribute discrimination; fuzzy sets; medical  option reduction
+High utility pattern mining; Diversity; Multi-objective optimization; MOEA/D
+ Utility-list structure; Skyline frequent-utility patterns (SFUPs); Maximal
+Dynamic  Dynamic model; Stability; Dynamic Bayesian Network; Grow-Shrink algorithm; Modeling and simulation
+network attack detection system; distributed computer network;  methods; Internet of things
+data reduction; feature selection; indiscernibility matrix; logic synthesis; index generation function
+Unsupervised Classification; Fuzzy C-Means; Cluster; Fuzzy Rough sets; Feature Selection
+Cyber security; cyber-threat intelligence;  open source intelligence; reliability comparison; validity analysis
+Multiple fuzzy regions; Frequent itemset; Dynamic  Transaction insertion; Incremental
+Cloud manufacturing resource; Big data;  Multi hierarchy structure; Improved genetic algorithm
+Resistance spot welding; Electrode life prognosis;  Feature extraction; Model selection
+ material design; material genome initiative; material informatics
+ pulse signal of the radial artery; qualitative and quantitative characteristics of the signal; pulse shape; rhythmic structure of the signal
+Deep long short-term memory (LSTM) network; human activity recognition; knowledge distilling; smartphone sensors; single-layer feedforward neural network (SLFN)
+Machining; Turning simulation; Multi-objective optimization; Cutting parameters; Tool geometry
+ and analysis; machine learning; pattern recognition; probability; statistics
+Fractal; Texture features; Algorithms;  Food technology
+ algorithms; Association rule mining; High-dimensional datasets; Frequent itemset mining
+Sequential patterns; Multi-core processors; Multi-threading; Early pruning
+Industrial multiphase flow; information fusion; multiplex network; signal analysis
+
+chemometrics; classification techniques; conventional chocolate; essential and toxic elements; organic chocolate
+ approaches; gait-phase recognition; health monitoring; multidimensional time-series analysis; multiple-regression hidden Markov model (MRHMM)
+Classification rule; Fuzzy set; Genetic algorithm; Multi-objective genetic algorithm; Surrogate-assisted model
+Construction company;  machine learning (ML); prediction system; sliding window; stock price forecasting; swarm intelligence and metaheuristic optimization; time series
+multi-agent; confrontation; intelligent decision support system
+wireless sensor; redundant  processing and calculation; rough set; genetic algorithm
+ Data clustering; Dimensionality reduction; Knowledge discovery
+Machine learning;  Materials design; MGI; Web service
+Optimization; Metaheuristics; Multi-verse optimizer; Clustering; Swarm Intelligence;  Machine learning; Evolutionary Computation
+Service science; Visualization; Text mining; 
+ frequent pattern; top-rank-k frequent pattern; FTPP-tree; Node-list
+ High utility patterns; Incremental mining; Utility mining; Pre-large
+Clustering algorithm; Random walk model; K-nearest neighbors chain; Heuristic rule; 
+Categorical framework for Carnatic music; categorical structure for raga; category theory (CT); ontology
+Principal component analysis; Unfold-PCA; MPCA; Building energy monitoring;  Statistical process monitoring
+Compacted graphite iron;  Support vector machine; Decision trees; Artificial neural networks
+smart-agriculture; mobile robot; image processing; growth monitoring; data evaluation
+ Product Quality Prediction; Statistical Methods; Data Quality Assessment
+Selectiv emaintenance; Multi-component systems;  Clustering algorithm; Association rules
+Pick and place component rejection; Pickup miss; Recognition miss; Big data;  Multiple regression analysis; CHAID; JRip method
+Feature selection; Gene selection;  Cluster analysis; Evolutionary computation; Boundary point; DNA-microarray; Visual analytics; Filter method; Boundary gene
+Feature selection; machine learning; nonnegative matrix factorization; sparse coding; unsupervised learning
+micro end-mill; tool catalog data; data-mining; slotting; cutting condition
+PCA; Polymeric Surfaces; Surface Analysis; ToF-SIMS; Wavelet
+Disturbance analysis; empirical wavelet transform (EWT); wide-area disturbance classifier (WADC); wide-area monitoring; wide-area situational awareness (WASA)
+ information recommendation; information retrieval; link similarity
+ Time series databases; Periodic patterns; Closed periodic patterns; Flexible patterns; Non -redundant patterns
+High utility mining; Multiple utility thresholds; Frequent itemset mining; 
+Intelligent manufacturing; Cutting database; Cloud platform; Internet of Things
+ Erasable patterns; Pattern mining; Top-rank-k
+Nonnegative matrix factorization; Semi-supervised learning; Sample diversity; Clustering
+Inventory management; Itemset mining; Support; Joint replenishment; Case study
+Adaptive system; data-driven optimization; information granulation (IG); robust optimization; uncertainty
+Metal additive manufacturing; Selective laser melting; In situ monitoring; Infrared imaging; Zinc; Process plume
+ Machine learning; Multivariate data analysis; Classification; Thermodynamics; Hindered internal rotation
+Model identification; Maximum likelihood;  Machine learning; Model diagnosis
+Education; University; Big Data;  Knowledge Discovery; Unstructured Data
+Frequent Patterns;  Outlier; Infrequent Patterns; Association Rule Mining
+Data Quality; Data Inconsistency; Data Cleaning
+Clustering; Itemset; border
+Clustering; Bisected Fuzzy C-means clustering; UCI Repository; Outward Statistical Testing
+Dimensionality reduction; Feature selection; Feature extraction; Dropout; Retention; EDM
+ classification; J48; LWL; LAD Tree; IBK
+WEKA; Global solar radiation; Random Forest; 
+Intellectual property rights; Steganography; DWT; ID3 Algorithm; Arnold Transform
+Vehicular ad-hoc networks; Cognitive radio; Channel availability prediction; Spectrum sensing; 
+Dynamic positioning of ships; unknown model parameters; unknown disturbances; data-mining; fuzzy control
+Statistical law; ISODATA; Pattern class variable; IQPSO; Cell mapping
+protein-protein interaction networks; protein complex; Gene Ontology; Black hole algorithm
+USV; FIS; DSC
+Song Lyrics; Emotion;  K-Nearest Neighbor
+wearable; health monitor; data visualization; 
+Data visualization; Probabilistic clustering; Dimensionality reduction
+
+ Educational 
+ Road Accident Analysis; K-means
+Machine Learning; Classification; Decision Tree; Association Rule; Apriori Algorithm;  Pathogens; Drugs; Combination Therapy; Antimicrobial Resistance; CLSI Guidelines; Staphylococcus aureus (sau); Pseudomonas aeruginosa elastase (pae)
+Symptoms; Query; Expert; Deep learning algorithm; Rapid automatic keyword extraction(RAKE) algorithm
+Big data; clustering; DBSCAN; parallelization; kd-tree
+ ANN; Time Series; Association; clustering; Diabetes
+Bitmap mapping; prefix trees; vertical layout; frequent itemset; association rule mining; set representation; Apriori algorithm
+Rough Set Theory; Fuzzy Rough Set Theory; Lower Approximation; Upper Approximation; Fuzzy Set Nearest Neighbour
+ingredients; food pairing; flavor network; recipes; nutritional requirements
+Internet of Things (IoT); Fog based computing; Canadian Forest Fire Index; Support Vector Machine (SVM)
+Machine Learning; Ensemble Classifier; Feature Selection; Harmony Search; Recursive Harmony Search
+ Knowledge Engineering; Twitter Data analysis; Sentiment Analysis; Topic Detection
+Regression; Multilayer Perceptron (MLP);  fault diagnosis
+human behavior; optimization; building performance; office buildings; machine leaning;  management and control
+ big data; open source; maintenance; CBM
+Data screening; multivariable systems; system identification; dynamic 
+Push Service; Algorithm Design; Telemdecine System; Healthcare
+ Hospital Management; Application
+Wind farm; Big data; Cloud management platform
+Decision making; Decision analysis; Research funding; R&D support; Peer review; Feature selection; Criteria importance; Machine learning; Random forest; ReliefF; Gini importance; Linear SVM
+information retrieval; distributed crawler; shopping search engine;  web scraping; micro service architecture; learning framework
+splitting criteria; Decision Trees; classification error rate; information entropy
+Intelligent data analysis; OLAP; factor analysis; cluster analysis
+
+
+Tanimoto similarity; validity; confidence interval; Pearson correlation coefficient; Fisher transformation
+
+
+
+
+
+short-term load forecasting; characteristic enterprise; deep learning; 
+Online shopping data; distributed Apriori algorithm; Hadoop; correlation degree
+Simulations; metamodeling; electricity grid
+Big data;  feature engineering; diabetes mellitus; electronic health records; data warehouses
+Fingerprint recognition; Databases;  Machine learning; Disease control
+railway safety; significant factors; CREAM-RAs; MARA-D; SOM; 
+ ETL Process; ADAS; Safety
+
+mobility disparity; pattern recognition; spatial-temporal clustering; scheme characterization vector
+Anomaly;  Data Stream; Anomaly Detection
+ user influence; page rank; microblog
+bibliometric analysis; cloud computing; development trends
+power services; analysis of complaints; grey relational analysis; the Boston matrix
+Clustering algorithms; synthesis of clustering algorithms
+DBSCAN; Electronic Warfare; K-Means; Spatial  Time series
+location data record; accessing frequency; differential privacy protection; multi-level query tree; Laplace's mechanism
+ Eye Tracking; Eye Movements; Orthographic Knowledge; k-means
+
+association rule mining; social network; community discovery; recommendation model
+audio content; music search; 
+Cloud platform; radio frequency identification technology; smart meter; intelligent storage system; handheld terminal
+AIS  cubic spline interpolation; time series forecast
+energy; evaluation; predication;  BP
+
+Clustering algorithms;  data uncertainty; Euclidean distance; parallel algorithms
+ Robustness; Process modeling; Statistical process monitoring; Big data analytics
+Trajectory anomaly detection; grid-based trajectory; Hausdorff distance; hierarchical clustering
+FP-tree; Association rules;  Maximal frequent patterns
+International Market; Intelligent Mining Algorithm for Big Data; Marketing Strategy; Avoid Risk
+
+Tourism; Crowdsourcing; Topic Modelling; Profiling; Recommendation
+particle swarm optimization algorithm; clustering analysis; fuzzy C - means algorithm
+Automation; bagging; boosting;  feature extraction; image classification; manufacturing automation; sparse coding; stacking; synthetic minority oversampling technique (SMOTE)
+Feature extraction; feature selection; hyperspectral data; spectral-spatial classification
+
+Public health emergency; Big data; Decision making
+vehicle engine state; influence factors;  technology; decomposition component; chaos processing
+Apriori algorithm;  association rules
+Railway Transportation;  Analysis of Stations; Clustering Algorithm
+information technology;  health care; clinical decisions; nutrition evaluation; machine learning; classification algorithms; performance measures
+ Abnormal detection; Outlier Mining
+intelligent analysis system; "One Belt and One Road" intelligent analysis system; cloud model  algorithm; interactive mode
+ Abnormal detection; Misuse detection
+International Marketing; Outlier  Subdivision Market Analysis; Detection Error
+ decision tree; medical diagnosis; rule pruning
+Analog and Mixed; Signal; Assertions; Simulation; 
+Outliers detection; LOF algorithm; 
+particle swarm optimization; big data; association rules; feature extraction; mining
+tramcar energy consumption; control chart; grey correlation analysis;  energy consumption analysis
+ time-series analysis; tools for time-series processing; application of time-series in research
+SVMs; GPUs; multi-core CPUs; efficiency; multiple interfaces
+
+
+ Feature selection; Classification; Symmetrical uncertainty and genetic algorithm
+Multiple linear regression; air quality monitoring data; forecasting model; 
+Distributed public computing; BOINC; big  cloud computing; computational costs
+ time-series analysis; tools for time-series processing; application of time-series in education
+AIS; outlier detection; trajectory  cluster
+machine learning;  system modeling
+power system stability; power system faults; load flow; power system analysis computing; 
+Sentiment classification; Word embedding; Extreme learning machine
+Automatic identification system (AIS) database; Maritime trajectory learning; 
+Financial distress; Probability of default; 
+ Web mining; Hyperlinks; Data warehousing; Systematic mapping
+Opinion mining; Feature selection; Opinion spam; Structural and linguistic features
+ Machine learning; Genetic algorithm; Decision tree; Associative classification; Pruning
+Clustering; K-means; Differential evolution; Spiking neural network; Evolving spiking neural networks; K-DESNN
+big data; dimensionality reduction; data visualization
+computer networks;  DDoS attack; design patterns
+Social exclusion; Social services; Data analysis; Machine learning; 
+ and processing; JRip; OneR; PART; train-test; performance evaluation
+Data-defect inspection; kernel neighbor density; kernel-neighbor-density-change outlier factor (KNDCOF); outlier factor
+Sequential pattern mining; Frequent sequence; Maximal frequent sequence; Frequent closed sequence; Frequent generator sequences; Vertical data format
+Wine authentication; Machine learning; Multi-class classification; Support vector machine; Bayesian network classifier; Multi-layer perceptron
+big data; complex data; data integration; data provenance; data streams; deep learning
+spatial  co-location patterns; extended objects
+feature extraction; feature selection; meta-learning
+big data; parallel computing; MAPREDUCE; decision trees; editing distance; tree similarit
+Data analysis; High-dimensional data; Gene regulatory networks; Microarray; RNA-seq; MicroRNAs; Transcription factors; NCA; ISNCA
+
+Case study; intertial sensor; prediction; road surface; pothole
+Grinding force model; Regression; Robotic grinding; 
+Bibliometrics;  ontology learning; requirements engineering (RE); smart grid
+Categorical and numeric data;  partial-value associations of variable values; structural system model
+intrusion detection system; distributed computer network; data-mining methods
+Ant colony optimization (ACO);  Classification; Mixture model; Ensemble methods
+Medical  classification; fuzzification; neuro-fuzzy system; learning algorithm; membership function
+ decision support systems; information systems
+ and knowledge discovery; Machine learning; Emerging applications and technology; Intelligent vehicles; Ambient intelligence
+Artificial neural network; High-strength steel; Turning operation; Optimization; Edgeworth-Pareto method; Surface roughness; 
+Deep learning; KDD99; memetic algorithm; NSL-Kdd; classification function; anomaly base intrusion detection; intrusion-detection system (IDS)
+Decision support systems; Time series data; Seismic events prediction; Cold-start problem; Predictive analytics; Feature engineering
+Metrology process model; Measuring planning; Digital metrology; Measurement data analysis; Large-scale assembly
+Clustering analysis; Social-spider optimization algorithm; Simplex method; Benchmark datasets; Meta-heuristic algorithm
+Generalized group technology problem; Machine-part cell formation; Heuristics; Cluster analysis; Alternative routing; 
+
+Variable selection; Feature selection;  Filters; Fuzzy logic
+ Frequent itemsets; Recency Frequency Monetary (RFM); weighted transaction; Revenue prediction
+Quality control; Support vector machines; Pattern recognition; Machine learning
+ Random Forest; Ensembles of regressors; Regression trees; Stents; Laser machining
+Artificial intelligence; Optimization; Heuristics; Classifiers; Data association; Feature Selection; Diagnosis
+Baldwinian learning; Clone selection algorithm; deep learning; elongation prediction; incremental extreme learning machine; Lamarckian learning
+Condition monitoring;  deep neural network (DNN); lubricant pressure; wind turbine gearbox
+Gravitational search algorithm; Learning algorithm; Collective behavior; Data clustering; Clustering Validation; Nature-inspired algorithm
+Frequent patterns; Multiple minimum supports; Sorted downward closure property; Set-enumeration-tree; DiffSet
+Multivariate process control; Control chart; Self-organizing map; Time-varying process;  Machine learning
+gesture recognition; one-shot learning; embodiment; robotics; human-computer interaction
+K-Means clustering; FPGA; parallelization
+dimension reduction; discriminant analysis; object recognition; registration
+resilience;  machine learning
+Multi Relational  Relational classification; Meta Learning
+system of systems (SoS); indicator system; random forests (RFs); principal component analysis (PCA)
+feature selection; Markov blanket; particle swarm optimization; information metric
+differential privacy;  privacy-preserving; decision tree
+Big data analytics; fault detection; high dimensional data; stream 
+Biological system modeling;  optimization; methods
+rolling bearing; fault diagnosis; Hilbert transform; C5.0; boosting; SVM; power spectral density
+time series; multivariate time series; classification; convolutional neural network (CNN); 
+Human Localization; Two-dimensional Code; Location Encoding Scheme; Smart Community
+
+
+Quantum Machine Learning; Quantum Computation; Artificial Intelligence; Deep Learning; Quantum Annealing; Artificial Neural Network;  Quantum Entanglement; Computational Modeling; Quantum Walks
+Big Data;  Network security; Outliers Detection; Supervised Classification; User Profile; Wireless Networks
+classification; convolutional neural network (CNN); dimension reduction (DR); principal component analysis (PCA); virtual samples; remote sensing image
+
+Aviation safety; classification algorithms; diagnosis; knowledge engineering; tree augmented Bayesian networks (TANs)
+Cyberbullying; Online Grooming; Watchdog; Machine Learning; Cyber Security
+CTCS-3; test case; test sequence;  association rule; FP_tree
+Classification; Sparse; Feature selection; Non-convex LOG penalty; LOG SVM; Elastic LOG SVM
+Prolog; R; Data processing; 
+budgets; threats; piracy; cluster analysis
+streetlamp energy consumption data processing; energy consumption monitoring; energy consumption analysis; smart city; 
+Clustering; Bi-max; Biclustering; Iterative Signature Algorithm (ISA); Expression View; Gene
+Clustering;  MapReduce; Hadoop; Distributed Computing
+Distributed Association Rule Mining; Distributed  Association Rules; Incremental Mining
+Data streams;  Sliding window model; Closed frequent item sets
+Crime identification; clustering; K-medoids; K-Means
+Biometric features; Biometric Relation; Feature aggregation; Cross Validation
+Fishing tackles; VMS data; ship trajectory; 
+Power quality; extreme learning machine; particle swarm optimization; feature classification
+Electric vehicles; charging; scheduling; dispatch  characterization model
+prediction; clustering; classification; diabetes
+Industrial waste water treatment; Activated sludge process; MLP neural network; 
+Big data; Fuzzy rule based classification system; MapReduce; Future goods data
+ technology; Grey correlation method; Driver's macroscopic characteristics; Accident type; Frequency
+Twin support vector regression; regression with noise; weighted mechanism
+Expert system; Association rule; Silk relics
+Emotion recognition; affective computing; physiological signals; recursive feature elimination; EEG
+Community Structure; Interconnected graph; Bi-clustering; 
+unsupervised feature selection; manifold regularization; matrix factorization; dimensionality reduction
+power monitoring big data;  association rule; Apriori algorithm optimization
+airport terminal; baggage demand; data driving; service time; passenger behavior
+component; data cleaning; outlier; mining; meta data
+Gradient descent; support vector regression; boiler efficiency; 
+Blast furnace ironmaking;  Association rules; Apriori algorithm; Operating parameters; Production indicators
+data acquisition; OPC communication; intelligent instrument
+learning process; dynamic approach; analytical methods; Intelligent agents; management model; didactic resources; learning content
+business intelligence; computing; neuro-technologies; fuzzy logic; education; management
+ data analysis; classification; clasterisation; data interpretation
+Word Cloud;  Predictive Analysis; Behavioral Aiming; Advertisement; Decision Matrix
+Social Media; Time Normalization; Temporal Ranking; Temporal Clustering; Facebook Platform
+ data warehousing; report files; HTML; web pages; forms; VLSI design; power; IR drop; EM
+Data clustering; kernel function; objective function; optimal cluster; ADDOFL algorithm
+XML clustering; Structure based clustering; DTD; Edit distance; Pattern based approach
+KNN; Classification; Classification; Radius; Weighted Classification
+ Intelligent Transportation System; optimization; real-time vehicle routing; Variable Neighborhood Search
+Cloud Computing; Software-As-A-Service (SaaS); Fuzzy Clusterering Algorithm;  Clustering
+Recommendation System; Accuracy and Precision
+
+
+
+Condition monitoring; feature extraction; genetic algorithms; hidden Markov models; predictive maintenance; semiconductor device reliability
+Business Process (BP); Business Process Management (BPM); Performance measurement; Key Performance Indicators (KPI); Ontology;  health care process
+Frequent Itemset Mining; Parallel Mining Algorithm; MapReduce; Charm
+Cloud Services; Recommendation systems; Automatic learning; .Cloud Computing; USTHB-CLOUD
+Gaussian Mixture Model; Data Clustering; Comparative Study; Expectation Maximization
+Twitter; Public conversations; Product feature extraction; Conversation filtering; Anaphora resolution
+Association Rule Mining; Chemical Reaction Optimization; Optimization; 
+Epidemiology; Research Protocol;  Natural Language Processing; Software tools
+ Text mining; Preprocessing; Classification of text; Pattern taxonomy; Pattern deploying; Inner process evolution
+Data Clustering; Optimization; 
+Emotion recognition; emotion classification; images
+Review mining; sentiment analysis; S-PLSA; ARSA; prediction
+Twitter; K-means; Clustering; Analysis; Visualization
+Educational (EDM); Clustering; data gathering; drop out; tools; (DM)
+kNN; MapReduce; load balancing; Euclidean distance; partitioning
+ causal rules; association rules; causal rule mining; association rule mining
+Call Data Records; Fuzzy Logics and LD-ABCD;  process; knowledge discovery
+Apriori; Improved Apriori; Frequent itemset; Support; Candidate itemset; Time consuming; Regression
+ Frequent Pattern Mining; Sentiment Analysis; Text Classification; Natural Language Processing
+ knowledge discovery; PCL
+Knowledge mining; Complex networks; social computing;  semantic web
+Text mining; sentiment computing; emotion classification; social media big dataset
+Imbalanced Class; Classification; Resampling; Students Classification; 
+Social network analysis;  fraud group; feature vectors
+Tool life prediction;  Grid search; Tool scheduling
+Intelligent Transportation; Fault Prognostics; Apriori Algorithm;  Big Data
+Capacity prediction; Departure Capacity; Support Vector Machine and Thunderstorms
+Glutamic acid;  R language; Regression tree; Random forest
+Call Detail Record Data; Travel Trajectory Analysis; DBSCAN; 
+vessel collision;  factor analysis; support vector machine; genetic algorithm
+ Association Rules; A Marked Transaction Compression Apriori algorithm
+ Fault diagnosis; Decision Tree
+fuzzy cluster; similarity; software defects
+intrusion detection; host log; ARIMA Time Series; Apriori algorithm
+big data; transmission line; operation state; Apriori; 
+air pollution  clustering; association rules
+ decision tree; rough set; ID3
+fault diagnosis; fault tree; Bayesian network
+density; clusters; merge; automatic; asymmetry
+ Support Vector Machine(SVM); Twin Support Vector Machine(TWSVM); second-hand real estate; price forecasting
+ decision trees; classification error rate; splitting criteria; pruning method; decision rule
+Big data analytics for industrial process; Cloud Computing;  Genetic Algorithm
+FP-tree; Mapreduce; Frequent itemsets; Big data; 
+Big data; Statistical analysis; Hadoop; Data acquisition; 
+Decision-Support System;  Knowledge Discovery; Model Warehouse
+Semantic network; Intelligent logistics system; Electronic commerce;  Ontology
+
+ Clustering; KNIME Analytics Platform
+ Web Mashup; Clustering
+
+
+ Taxi cab database; Data visualization; Urban traffic modeling
+
+
+
+data preprocessing; data semantics; ontology; real-estate listings
+online purchase prediction; statistical classification; feature selection and design; automatic marketing decision-making;  & knowledge discovery
+Decision trees;  Employee selection; Criteria; Classification
+domain adaptation; fault diagnosis; auxiliary features; reciprocating compressor
+RFID; entry/exit; access control; data-mining
+ Data warehouse; DSpace; Plagiarism Dection System; Vietnamese Text
+HAUl-Tree; dynamic databases; average-utility; itemset mining;  high average-utility item sets; mining algorithm
+Marine Nuclear Power Platform;  system model; the integrated maintenance information system
+churn detection; credit scoring; decision tree; economic modeling; fraud detection; graph
+Association rule mining; Students performance analysis;  Apriori algorithm; Blooms taxonomy;  model; Correlation of students knowledge; Students knowledge level analysis
+ educational data analysis; association mining; clustering
+Clustering; Normalization; K Means; Euclidian Distance; Outlier Detection
+detection; image processing; carcinoma; cell mutation; cancer cells
+Sentiment Analysis; Natural Language Processing; Machine Learning; 
+spinning solid rocket motor; clustering analysis; wall temperature; tangential velocity; 
+Secure multiparty computation; linear regression; protect privacy
+Fuzzy association rules; Fuzzy Galois connection; prime number
+ICT- Information and Communication Technology; KDD- Knowledge discovery from databases; MNREGA- Mahatma Gandhi National rural employment guarantee act; SBM- Swachh Bharat Mission
+component; formatting; style; styling; insert
+multi-label classification; decision tree; parallelization; MPI
+electric power information; large data; data analysis and mining; smart grid; feature extraction
+educational  software cybernetics; combination; framework
+KNN Join; Big Data; Spark
+
+Belief Functions; Regression Trees;  Epistemic Uncertainty
+Web data acquisition; data extraction rule; XPath; TF-ID; threat awareness
+Cloud engine system; GT.M; key-value database; hierarchical database; NoSQL database; big data; 
+Android; Malwares; Static detection; Classification; Feature ranking; Feature reduction
+Cardiovascular disease; J48; Naive Bayes;  Weka
+Data sharing; Privacy; Sensitive knowledge; Sanitization; TLBO; Optimization; Association rule mining
+Clustering;  R
+condition-based maintenance; data analytics;  machine learning; failure event
+RSW; welded assembly design; ontology; visualization; OWL; SWRL; X3DOM
+ Variable Selection; Yield Improvement; TFT-LCD Manufacturing; Trouble Shooting
+Delamination Diagnosis;  Variable Selection; Class Imbalanced Problem; Semiconductor Assembly
+Anomaly Detection; Advanced Monitoring Systems;  Etching; Fault-diagnosis; Machine Learning; Optical Emission Spectroscopy; Semiconductor Manufacturing
+machining feature; NC machining process reuse;  CAM models
+ Emotional dictionary; Sentiment analysis
+ medical  technology; medical data theory
+access control; reputation assessment; trutst management; XACML
+Big data; Educational  Support Vector Machine (SVM); Study evaluate; Resource recommend; Performance predict
+ FP-tree; Frequent Itemsets
+Mathematical Morphology; Decision tree; High impedance fault; 
+ideological and political education; Web; C5.0 algorithm
+intelligent recommendation; Apriori; mining; association rule; personalized tourism
+Urban Transformation; Service Industry; 
+ Big Data; Website Operation
+component; decision tree model;  modeling; estimation and prediction
+hierarchical clustering; BRICH; differential privacy; cluster diameter; cluster distance
+ Intrusion Detection; K-Means Algorithm; Clustering Analysis
+UHVDC; power source construction; evaluation index; relevancy analysis
+Stroke; Artificial Intelligence;  CHS Dataset
+Risk Score; Android Devices; NLP; 
+CSV; Knowledge Discovery; Big Data and Information Security
+E-Learning; Educational  Predictive Analytics; Decision Tree; Big Data
+Freuent pattern mining;  stream data; sliding window; false negtive
+Spatial  OSM; SpatialHadoop; Pigeon
+Image Retrieval;  Relevance Feedback; Content Model; Multilevel Image
+ fault analysis; fault diagnosis; information retrieval; text processing
+Security; Cryptography based PPDM; k-NN classifier; outsourced databases; AES algorithm
+Hidden layers;  Disease Inference and Deep Learning
+Cloud Computing; Privacy preservation; Private cloud; OpenStack
+Privacy attacks; social networks; Anonymization
+ clustering; industrial production processes
+time series; fuzzy-clustering; population-based technique; optimization
+Web Document clustering; Concepts; Semantic; Word Net; cluster labels
+Automation; Web Technology;  J2EE; MySQL; Faculty
+
+Web mining; Cloud computing; Hadoop; Map Reduce
+ Association rules; Frequent pattern; Interest; Multiple minimum supports
+Extreme learning machine (ELM); Principal component analysis (PCA); Feed-forward neural network
+
+disjunctive normal form; statistical learning;  association rules; interpretable classifier; Bayesian modeling
+Incomplete data; lost values; "do not care" conditions; inconsistent data; rough set theory; probabilistic approximations; MLEM2 rule induction algorithm
+CART; Classification and regression tree; Pruning; Cross validation
+
+Twitter; Sentiment analysis;  Visualization; Hidden relation
+resilience;  NMF; machine learning
+grade prediction; collaborative filtering; educational 
+clustering;  self-organizing map
+Frequent Itemset Mining; Hadoop MapReduce; Apache Spark
+HS; MS; TS; Ant-Miner; Decision rules
+CART; DM; Algo; Predictor; Weka tool
+ Big Data; data abstraction; data management
+Machine learning;  Classification
+Intrusion detection; hybrid algorithm; SMO; K-mean; NLS KDD
+preschool education; undergraduate professional identity; neural network; collaborative filtering; Matlab
+Quantile regression; lean service; grey relational analysis; artificial intelligence; neural networks
+Fuzzy cognitive maps (FCM); Fuzzy diabetic ontology (FDO); K-NN; Support vector machine (SVM)
+ Clustering (un-supervised) algorithms; Categorical data
+ Hierarchical clustering; Bisecting K-Means clustering; Min-Max Clustering; Bisecting min max clustering
+Artificial neural network; Error backpropagation algorithm; Weather forecasting; ANN
+Coherent rules; Indexing; Set theory
+ AVL; Fuzzy clustering; Naive Bayes; SVM; Cuckoo optimization
+Data analysis;  Social network; Sports; Event; Popularity
+Big data; Cloud computing; Software; Research; Integration
+fall detection; machine learning; supervised learning; cellular phone; smartphone
+OLAP;  Multidimensional data; Inter-dimensional association rule; Antecedent; Consequent; Template; Dimension; Set; Combination
+Information technology;  Interuniversity scientific-practical projects; Distance learning; Distance education; E-learning; Gamification; Information and communications technology; Electronic textbook; Virtual learning environment; Integrated net oriented informational-educational environment Scientific career; Interuniversity projects participants
+Cluster analysis; Methods; Objectives; Automatic classification; Pattern recognition without teacher
+EDM; Prediction; Clustering; Relationship mining; Learning management systems
+IDS; HIDS; NIDS; Cloud computing; Machine learning; Open stack
+Factor logic; Quantitative logic; Factor space; Decision tree; Fault analysis
+ CRM; Online Mall
+ combination algorithm; support vector machine; neural network; magnitude prediction
+ID3 algorithm; Decision Tree; Structural Optimization;  Pattern Recognition
+Disease detection; precision agriculture; IOT; Hidden Markov model; Sensors
+Opinion mining; Machine learning; Statistical measures
+Encryption and decryption key; fuzzy cluster; registration key; database
+Activity recognition; Mobile sensors; Machine learning;  Pattern recognition; Android; GPS; Wi-Fi; Bluetooth
+WEKA tool; classification; Association; Clustering; Prediction KDD etc
+Social media posts; User comments; Drug information; Dynamic retrieval
+ sensitive information; Privacy-Preserving  anonymization; provenance; game theory; privacy auction; anti-tracking
+sentiment analysis; Business Intelligence; Machine learning; Big Data
+Yager's rule; Dezert-Smarandache (DSm) theory; Support Vector Machine; Uncertainty; Forest 
+Reduction; Pulse Coupled Neural Network (PCNN); Particle Swarm Optimization (PSO); Machine Learning; Feature Selection; Feature Extraction
+ Distributed Generation (DG); Islanding Detection
+Duplicate/Copy Data etection/Identification; Advanced Progressive Sorted Neighborhood Method; APSNM
